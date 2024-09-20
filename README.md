@@ -16,10 +16,10 @@ The modifications include downscaling autoinducer-related reaction rates and imp
 
 ## **How to Run the Code**
 
-- Simply run the provided MATLAB code file to generate the results corresponding to Figures 4-8 of the paper. Make sure you have the required MATLAB SimBiology Toolbox installed if you want to run the deterministic model comparisons. You can also run the code faster if you just uncomment the parfor line and comment the for line in the Modified Tau-Leap Algorithm section of the code. For using parfor, Parallel Computing Toolbox is required.
+- Simply run the provided MATLAB code file to generate the results corresponding to Figures 4-8 of the paper. Make sure you have the required MATLAB SimBiology Toolbox installed if you want to run the deterministic model comparisons. You can also run the code faster if you just uncomment the parfor() line and comment the for() line in the Modified Tau-Leap Algorithm section of the code. For using parfor(), Parallel Computing Toolbox is required.
 
 ## **Citation Requirement**
 
-If you use or build upon this code in your research, or if this code is used for any academic work, publication, or research, proper attribution and citation of the paper is **required**. Please cite the paper in any related publications, presentations, or derived works.
+If you use or build upon this code in your research, or if this code is used for any academic work, publication, or research, proper attribution and citation of the paper is **required**. Please cite the paper below in any related publications, presentations, or derived works.
 
 **Gulec, F., & Eckford, A. W., "Stochastic modeling of biofilm formation with bacterial quorum sensing," in ICC 2023 - IEEE International Conference on Communications, pp. 4470–4475, IEEE, 2023.**
