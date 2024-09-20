@@ -22,4 +22,4 @@ The modifications include downscaling autoinducer-related reaction rates and imp
 
 If you use or build upon this code in your research, or if this code is used for any academic work, publication, or research, proper attribution and citation of the paper is **required**. Please cite the paper below in any related publications, presentations, or derived works.
 
-**Gulec, F., & Eckford, A. W., "Stochastic modeling of biofilm formation with bacterial quorum sensing," in ICC 2023 - IEEE International Conference on Communications, pp. 4470–4475, IEEE, 2023.**
+**Gulec, F., & Eckford, A. W., "Stochastic modeling of biofilm formation with bacterial quorum sensing," in ICC 2023 - IEEE International Conference on Communications, pp. 4470–4475, IEEE, 2023. https://ieeexplore.ieee.org/abstract/document/10278566. Arxiv link: https://arxiv.org/pdf/2212.06269**
